@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "lhRw7BcL1G8zOFIxSQk1mLSKpfZzvDow18XIN+PIU07mvGcfdxhE8d+ckyVBpk/x02o6lV9PlEUdX0PV83tYUg==",
+  "success": true,
+  "projectFilePath": "D:\\dklasor\\software\\consoledenemeler\\MicroserviceECommerceApi\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.32\\microsoft.extensions.configuration.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.32\\microsoft.extensions.configuration.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.32\\microsoft.extensions.configuration.binder.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.32\\microsoft.extensions.dependencyinjection.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.32\\microsoft.extensions.dependencyinjection.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.http\\3.1.32\\microsoft.extensions.http.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.32\\microsoft.extensions.http.polly.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.logging\\3.1.32\\microsoft.extensions.logging.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.32\\microsoft.extensions.logging.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.options\\3.1.32\\microsoft.extensions.options.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
