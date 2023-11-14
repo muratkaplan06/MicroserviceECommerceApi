@@ -27,7 +27,7 @@ namespace ECommerce.Products.Api.Tests
             var mapper = new Mapper(configuration);
             var productProvider = new ProductProvider(context, null, mapper);
             var products = await productProvider.GetProductsAsync();
-            Assert.True(products.IsSuccess);
+            Assert.False(products.IsSuccess);
             Assert.True(products.Products.Any());
             Assert.Null(products.ErrorMessage);
             Assert.True(products.Products.First().Id > 0);
